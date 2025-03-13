@@ -171,7 +171,8 @@
 1️⃣ Fork the repository & create a branch (`<name>-<role>`).  
 2️⃣ Complete the assigned task & commit changes.  
 3️⃣ Create a **Pull Request (PR)**.  
-4️⃣ Add proper documentation in the PR description.  
+4️⃣ Add proper documentation in the PR description. 
+5️⃣ UI / UX Designers also create a PR with the figma link in a file and the prototype link
 
 ⏳ **Deadline: 14/03/2025**  
 🔥 **Bonus Challenge (Optional)** Each team member has extra challenges to go beyond expectations! 🚀
