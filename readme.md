@@ -174,5 +174,5 @@
 4️⃣ Add proper documentation in the PR description. 
 5️⃣ UI / UX Designers also create a PR with the figma link in a file and the prototype link
 
-⏳ **Deadline: 14/03/2025**  
+⏳ **Deadline: 15/03/2025**  
 🔥 **Bonus Challenge (Optional)** Each team member has extra challenges to go beyond expectations! 🚀
